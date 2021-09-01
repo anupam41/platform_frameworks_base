@@ -88,12 +88,10 @@ LOCAL_REQUIRED_MODULES := \
 	IconPackRoundedSettingsOverlay \
 	IconPackRoundedSystemUIOverlay \
 	IconPackRoundedThemePickerOverlay \
-<<<<<<< HEAD
-=======
-	NavigationBarMode2ButtonOverlay \
 	IconPackOOSAndroidOverlay \
 	IconPackOOSSystemUIOverlay \
->>>>>>> a4843e005a19... overlays: Add an OxygenOS icon pack
+        IconPackOOSLauncherOverlay \
+        IconPackOOSSettingsOverlay \
 	NavigationBarMode3ButtonOverlay \
 	NavigationBarMode2ButtonOverlay \
 	NavigationBarModeGesturalOverlay \
