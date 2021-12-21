@@ -6008,6 +6008,7 @@ public final class Settings {
          */
         public static final String STATUSBAR_ICONS_STYLE = "statusbar_icons_style";
 
+        /**
          * Whether to show brightness slider in qs panel.
          * Default 1.
          * @hide
